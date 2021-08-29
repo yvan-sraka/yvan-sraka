@@ -1,7 +1,7 @@
 # Yvan SRAKA &lt;[yvan@sraka.xyz](mailto:yvan@sraka.xyz)&gt; [(he/him)](http://pronoun.is/he)
 
 - 🔑 [GPG (C12EADF9)](https://keys.openpgp.org/vks/v1/by-fingerprint/5D5CB084021725D52755063B82766D7EC12EADF9) / [SSH (yvan@X230)](https://github.com/yvan-sraka.keys)
-- 🌐 [GitHub](https://github.com/yvan-sraka) / [StackOverflow](https://stackoverflow.com/story/yvan.sraka) / [Twitter](https://twitter.com/yvansraka)
+- 🌐 [GitHub](https://github.com/yvan-sraka) / [StackOverflow](https://stackoverflow.com/story/yvan.sraka) / [Twitter](https://twitter.com/yvansraka) / [Itch](https://yvansraka.itch.io/)
 
 ## Notes on my personal setup
 
