@@ -1,4 +1,4 @@
-# Yvan SRAKA <[yvan@sraka.xyz](mailto:yvan@sraka.xyz)> ([he/him](http://pronoun.is/he))
+# Yvan SRAKA <[yvan@sraka.xyz](mailto:yvan@sraka.xyz)>
 
 - 🔑 [GPG (A4FB3EAA6F452379)](https://keys.openpgp.org/vks/v1/by-fingerprint/FE9A953C97E454FE6598BFDDA4FB3EAA6F452379) / [SSH (yvan@X230)](https://github.com/yvan-sraka.keys)
 - 🌐 [GitHub](https://github.com/yvan-sraka) / [Mastodon](https://functional.cafe/@yvan) / [StackOverflow](https://stackoverflow.com/story/yvan.sraka) / [Itch](https://yvansraka.itch.io/)
