@@ -7,7 +7,7 @@ I hold a master's degree in math and computer sciences applied to biology from S
 
 ## Current commercial work
 
-I am currently working as a Senior DevX Engineer at IOG, contributing to Rust, Nix, and Haskell upstream tooling. I designed the Rust/Haskell interoperability tools suite [`cargo-cabal`](https://github.com/yvan-sraka/cargo-cabal) and [`hs-bindgen`](https://github.com/yvan-sraka/hs-bindgen), the Nix [`contracts`](https://github.com/yvan-sraka/contracts) library, and am maintaining the [`Cabal`](https://github.com/haskell/cabal), [`devx`](https://github.com/input-output-hk/devx) and [`haskell.nix`](https://github.com/input-output-hk/haskell.nix) build infrastructure.
+I am currently working as a Senior DevX Engineer at IOG, contributing to Rust, Nix, and Haskell upstream tooling. I designed the Rust/Haskell interoperability tools suite [`cargo-cabal`](https://github.com/yvan-sraka/cargo-cabal) and [`hs-bindgen`](https://github.com/yvan-sraka/hs-bindgen), the Nix [`contracts`](https://github.com/yvan-sraka/contracts) library, and am maintaining the [`Cabal`](https://github.com/haskell/cabal), [`devx`](https://github.com/input-output-hk/devx) and [`haskell.nix`](https://github.com/input-output-hk/haskell.nix) build infrastructures.
 
 ## Notes on my personal setup
 
